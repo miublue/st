@@ -7,7 +7,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetbrainsMono Nerd Font:size=18:antialias=true:autohint=true";
+static char *font = "IoskeleyMono:size=18:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
